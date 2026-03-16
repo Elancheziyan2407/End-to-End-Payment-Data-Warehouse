@@ -9,6 +9,8 @@ Builds a complete data warehouse for financial transaction data, transforming ra
 - Analytical reporting and dashboards
 
 ## Technologies Used
-- SQL Server (SSIS, SSRS, SSAS)
-- Python (data preprocessing)
-- Power BI / Excel
+- SQL 
+- Python (Data Preprocessing)
+- Power BI (Data Modelling, DAX, Data visualization) 
+- Excel (Advanced)
+- Business & Analytical (Financial Data Analysis, Root Cause Analysis, KPI Monitoring)
