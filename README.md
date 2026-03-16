@@ -8,9 +8,16 @@ Builds a complete data warehouse for financial transaction data, transforming ra
 - Star schema  data implementation
 - Analytical reporting and dashboards
 
-## Technologies Used
-- SQL 
-- Python (Data Preprocessing)
-- Power BI (Data Modelling, DAX, Data visualization) 
-- Excel (Advanced)
-- Business & Analytical (Financial Data Analysis, Root Cause Analysis, KPI Monitoring)
+## Technologies & Tools
+
+- SQL
+- Python (Pandas, NumPy)
+- Power BI (Data Modeling, DAX, Visualization)
+- Microsoft Excel (Advanced Functions, Pivot Tables)
+
+## Analytical Skills
+
+- Financial Data Analysis
+- Root Cause Analysis
+- KPI Monitoring
+- Data Cleaning & Data Validation
